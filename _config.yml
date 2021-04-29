@@ -25,7 +25,7 @@ url                      : # "janes-mile.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # "janes-mile/janes-mile.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/logotrans.png"# path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "/assets/images/avatar.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "이재인"
-  avatar           : "/assets/images/avatar.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/logotrans.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "법의학자의 꿈을 꾸고 있어요"
   location         : "성남시 분당구"
   email            : "iamjane040208@gmail.com"
